@@ -1,5 +1,5 @@
 ### Hi there 👋
-Jorge Attie 30 Estudante  *React React-Native e Interfaces UX/UI
+Jorge Attie 30 Estudante  
 - 📫 How to reach me: https://www.linkedin.com/in/jorge-attie-791522182/🐱‍💻
 
 **Jorge989/Jorge989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile�
